@@ -1,0 +1,10 @@
+print("enter a :")
+a = int(input())
+print("enter b :")
+b = int(input())
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
