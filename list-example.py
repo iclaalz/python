@@ -1,3 +1,6 @@
+# listeler değiştirilebilir
+# kapsayıcıdır yani farklı tipte verileri tutabilir
+# listeler sıralıdır
 # List deneme method 
 
 numbers= [5,3,6,7,2]
